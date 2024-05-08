@@ -1,0 +1,23 @@
+body{
+  font-size: 1.5rem;
+}
+.container{
+  background-color: rgb(115, 171, 173);
+  
+  width: 300px;
+  
+  height: 250px
+  
+  
+}
+.app{
+  border: 1px solid black;
+  height: 200px;
+  
+  
+}
+button{
+  height: 50px;
+  width: 100px;
+  background-color: aquamarine;
+}
